@@ -28,4 +28,13 @@ You should get your
 
 ### Run Locally
 
+to run the Frontend 
+```bash
+npm run dev
+```
+to run the Backend 
+```bash
+npm run start
+```
+
 <div style="background-color:#4c4893; color:white; font-size:15px; font-family:Comic Sans MS; padding:10px; border: 5px solid black;font-weight:bold;border-radius: 20px;text-align:center"> ✨ THE END ✨</div><br>
